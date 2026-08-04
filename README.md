@@ -1,2 +1,2 @@
-# Jellyfin-ZeroTior-Containerlab
+# Jellyfin-Server
 final project

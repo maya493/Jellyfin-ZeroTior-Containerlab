@@ -1,0 +1,7 @@
+name: demo
+
+topology:
+  nodes:
+    linux1:
+      kind: linux
+      image: alpine:latest
